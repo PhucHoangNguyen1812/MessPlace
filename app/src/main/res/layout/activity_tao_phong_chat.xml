@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/taophongchat"
+    tools:context=".Activities.TaoPhongChat">
+
+  <ImageView
+      android:id="@+id/anhPhongChat"
+      android:layout_width="135dp"
+      android:layout_height="114dp"
+      android:layout_marginTop="8dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      app:srcCompat="@drawable/ic_home" />
+
+  <LinearLayout
+      android:id="@+id/linearLayout4"
+      android:layout_width="wrap_content"
+      android:layout_height="0dp"
+      android:layout_marginTop="8dp"
+      android:orientation="vertical"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/anhPhongChat">
+
+    <EditText
+        android:id="@+id/txtTenPhongChat"
+        android:layout_width="377dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="Tên Phòng Chat"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/txtThanhVien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/story_description_background"
+        android:hint="Thành Viên"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/txtSearchBb"
+        android:layout_width="365dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="5dp"
+        android:background="@drawable/bg_round"
+        android:ems="10"
+        android:hint="   Search"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+
+    <ListView
+        android:id="@+id/listDSBB"
+        android:layout_width="match_parent"
+        android:layout_height="263dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:drawable/editbox_dropdown_dark_frame"
+        android:backgroundTint="#DDD9D9" />
+  </LinearLayout>
+
+  <Button
+      android:id="@+id/btnThemNhom"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="+ Phòng"
+      app:layout_constraintBottom_toBottomOf="@+id/anhPhongChat"
+      app:layout_constraintEnd_toEndOf="@+id/linearLayout4"
+      app:layout_constraintStart_toEndOf="@+id/anhPhongChat"
+      app:layout_constraintTop_toTopOf="@+id/anhPhongChat" />
+
+  <Button
+      android:id="@+id/btnThemAnh"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="+ Ảnh"
+      app:layout_constraintBottom_toBottomOf="@+id/anhPhongChat"
+      app:layout_constraintEnd_toStartOf="@+id/anhPhongChat"
+      app:layout_constraintStart_toStartOf="@+id/linearLayout4"
+      app:layout_constraintTop_toTopOf="@+id/anhPhongChat" />
+</androidx.constraintlayout.widget.ConstraintLayout>

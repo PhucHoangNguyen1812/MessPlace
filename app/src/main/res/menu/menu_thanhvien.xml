@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_video"
+        android:title="Gọi Video"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_call"
+        android:title="Gọi Điện"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/thongtinPhong"
+        android:title="Thông Tin Phòng" />
+    <item
+        android:id="@+id/guivitri"
+        android:title="Gửi Vị Trí" />
+    <item
+        android:id="@+id/roinhom"
+        android:title="Rời Phòng" />
+
+</menu>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/call_background"
+    tools:context=".Activities.Off_Video">
+
+    <TextView
+        android:id="@+id/tinhtrang"
+        android:layout_width="152dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/vong_trong"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarcall"
+        app:layout_constraintEnd_toEndOf="@+id/avatarcall"
+        app:layout_constraintStart_toStartOf="@+id/avatarcall"
+        app:layout_constraintTop_toTopOf="@+id/avatarcall"
+        app:srcCompat="@drawable/vong_tron" />
+
+    <ImageView
+        android:id="@+id/vong_ngoai"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/vong_trong"
+        app:layout_constraintEnd_toEndOf="@+id/vong_trong"
+        app:layout_constraintStart_toStartOf="@+id/vong_trong"
+        app:layout_constraintTop_toTopOf="@+id/vong_trong"
+        app:srcCompat="@drawable/vong_tron" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/avatarcall"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="128dp"
+        android:src="@drawable/avatar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/call_name" />
+
+    <TextView
+        android:id="@+id/call_name"
+        android:layout_width="234dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="SANG PHAN"
+        android:textColor="@color/white"
+        app:autoSizeTextType="uniform"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <ImageView
+        android:id="@+id/check_false"
+        android:layout_width="65dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="120dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/avatarcall"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/icon_tatmay" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="142dp"
+        android:layout_height="92dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tinhtrang"
+        app:srcCompat="@android:drawable/presence_video_online" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

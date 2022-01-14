@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Messbcode PB24/app/src/main/res/layout/activity_call_video.xml" value="0.2" />
+        <entry key="..\:/Messbcode PB24/app/src/main/res/layout/activity_kich_hoat_so_dien_thoai.xml" value="0.2210144927536232" />
+        <entry key="..\:/Messbcode PB24/app/src/main/res/layout/activity_off_video.xml" value="0.25" />
+        <entry key="..\:/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_nguoi_dung.xml" value="0.25" />
+        <entry key="..\:/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_tai_khoan.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/BAI HC/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_tai_khoan.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/BAI HC/Messbcode PB24/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/layout/activity_goi_ydia_diem.xml" value="0.2015625" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/layout/activity_kich_hoat_o_t_p.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/layout/activity_them_ban_be.xml" value="0.2015625" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/layout/content_goi_ydia_diem.xml" value="0.2015625" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/layout/thongtin_user.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/menu/menu_thanhvien.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/Messbcode PB24/app/src/main/res/menu/topmenu.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/New folder/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_nguoi_dung.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/New folder/Messbcode PB24/app/src/main/res/layout/goiy_diadiem.xml" value="0.4" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/FIX LAI/New folder/Messbcode PB24/app/src/main/res/layout/thongtin_user.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_call_video.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_kich_hoat_so_dien_thoai.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_nhan_tin.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_off_video.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_nguoi_dung.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/layout/activity_yeu_cau_ket_ban.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/chatmenu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/menu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/menu_chinh.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/menu_thanhvien.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/navigation_menu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/HCBT/Messbcode PB24/app/src/main/res/menu/topmenu.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_dia_diem_chat.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_nhan_tin.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_nhan_tin_phong_chat.xml" value="0.23125" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_nhom_nhan_tin.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_phong_chat_ban_be.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_quan_ly_phong_chat.xml" value="0.264" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_tao_phong_chat.xml" value="0.23125" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_them_ban_be.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_nguoi_dung.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/activity_yeu_cau_ket_ban.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/demo_layout.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/demo_status.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/fragment_chat.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/fragment_home.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/item_receice_group.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/item_receive.xml" value="0.2171875" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/item_sent.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/item_sent_group.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/item_status.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/layout_navigation_header.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/list_thongtin_user.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/profile.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/row_conversation.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/slider_item.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/switch_item.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/layout/thongtin_user.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/chatmenu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menu_chinh.xml" value="0.264" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menu_nguoitao.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menu_phong_chat.xml" value="0.196875" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menu_quantri.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/menuthanhvien.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/phongmenu.xml" value="0.23125" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/top_menuchatdiadiem.xml" value="0.25" />
+        <entry key="..\:/Users/SANGPHAN/Desktop/Video/Anime/Messbcode PB24/Messbcode PB24/app/src/main/res/menu/topmenu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/email.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/heart.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/ic_baseline_group_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/ic_checkpass.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_drawer.xml" value="0.176" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_kich_hoat_o_t_p.xml" value="0.536" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_kich_hoat_so_dien_thoai.xml" value="0.4" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_kiem_tra_email.xml" value="0.264" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_main.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_nhan_tin_phong_chat.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_nhom_nhan_tin.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_phong_chat_ban_be.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_quan_ly_phong_chat.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_quen_mat_khau.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_tao_phong_chat.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_them_ban_be.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_thong_tin_tai_khoan.xml" value="0.264" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_welcome.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/activity_yeu_cau_ket_ban.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/delete_dialog.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/demo_layout.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/demo_status.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/fragment_chat.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/fragment_home.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/item_receice_group.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/item_receive.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/item_sent_group.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/item_status.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/layout_navigation_header.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/list_thongtin_user.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/row_conversation.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/slider_item.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/switch_item.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/layout/thongtin_user.xml" value="0.234375" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/chatmenu.xml" value="0.2" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/menu.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/menu_chinh.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/menu_nguoitao.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/menu_quantri.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/menu_thanhvien.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/navigation_menu.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/phongmenu.xml" value="0.1140625" />
+        <entry key="..\:/Users/phuch/OneDrive/Desktop/Messbcode PB24/app/src/main/res/menu/top_menuchatdiadiem.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

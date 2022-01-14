@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="30dp"
+    tools:context=".Activities.KichHoatOTP">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:src="@drawable/ic_left_arrow"
+            app:tint="@color/blue" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            app:srcCompat="@drawable/otp_verify"
+            />
+        <TextView
+            android:id="@+id/phoneLbl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Xác Minh 0382720304"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/blueDark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Nhập mã OTP để xác minh số điện thoại của bạn"
+            android:textAlignment="center"
+            android:textColor="#5e6977"
+            android:textSize="14sp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="vertical">
+
+
+                    <com.mukesh.OtpView
+                        android:id="@+id/otp_view"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="5dp"
+                        android:focusableInTouchMode="true"
+                        android:inputType="number"
+                       android:itemBackground="@color/grey"
+                       app:OtpItemCount="6"
+                       app:OtpLineColor="@color/blue"
+                        app:OtpViewType="line" />
+
+                    <TextView
+                        android:id="@+id/resendCode"
+                       style="@style/TextAppearance.MaterialComponents.Caption"
+                        android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                       android:layout_marginTop="5dp"
+                        android:padding="5dp"
+                        android:text="@string/l_y_l_i_m_otp_g_i_l_i"
+                        android:textAlignment="center"
+                        android:textColor="#777777" />
+
+                    <Button
+                        android:id="@+id/continueBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                       android:backgroundTint="#25C6DA"
+                        android:padding="10dp"
+                        android:text="Xác Nhận"
+                       android:textSize="18dp"
+                        android:textStyle="bold" />
+
+              </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

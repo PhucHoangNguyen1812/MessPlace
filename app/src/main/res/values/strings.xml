@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name" translatable="false">MessPlace</string>
+    <string name="l_y_l_i_m_otp_g_i_l_i" translatable="false">Lấy lại mã OTP? <b>Gửi lại</b></string>
+    <string name="facebook_app_id">1562738924094450</string>
+    <string name="fb_login_protocol_scheme">fb1562738924094450</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Light Mode</string>
+    <string name="title_activity_goi_ydia_diem">GoiYDiaDiem</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

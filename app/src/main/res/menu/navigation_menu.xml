@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn ="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Trang Chủ"
+
+            />
+
+        <item
+            android:id="@+id/capnhapthongtin"
+            android:icon="@drawable/ic_person"
+            android:title="Cập Nhập Thông Tin" />
+
+        <item
+            android:id="@+id/goiy"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Gợi Ý Địa Điểm" />
+
+        <item
+            android:id="@+id/mess"
+            android:icon="@drawable/ic_mess"
+            android:title="Bạn Bè Chat" />
+
+        <item
+            android:id="@+id/diadiemchat"
+            android:icon="@drawable/ic_mess"
+            android:title="Địa Điểm Chat"
+            />
+
+        <item
+            android:id="@+id/phongchat"
+            android:icon="@drawable/ic_mess"
+            android:title="Phòng Chat"
+            />
+
+        <item
+        android:id="@+id/location"
+        android:icon="@drawable/ic_location"
+        android:title="Vị Trí Của Tôi"
+        />
+        <item
+            android:id="@+id/ketban"
+            android:icon="@drawable/friend"
+            android:title="Kết Bạn"
+            />
+    </group>
+
+    <group>
+        <item
+            android:enabled="false"
+            android:title=""
+            />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:enabled="false"
+            android:icon="@drawable/ic_mode"
+            android:title="Chế Độ Tối" />
+        <item
+            android:id="@+id/app_bar_switch"
+            android:title="Bật/Tắt"
+            app:actionLayout="@layout/switch_item"
+            app:showAsAction="always" />
+    </group>
+
+    <group>
+        <item
+            android:enabled="false"
+            android:title=""
+            />
+    </group>
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Đăng Xuất"
+
+    />
+
+
+</menu>

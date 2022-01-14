@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034368524343",
+    "firebase_url": "https://messbcode-e084a-default-rtdb.firebaseio.com",
+    "project_id": "messbcode-e084a",
+    "storage_bucket": "messbcode-e084a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034368524343:android:f56e1cf9ad74522bf79fb2",
+        "android_client_info": {
+          "package_name": "com.doanjava.messbcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034368524343-nfemioacn0cjj5aqvlj4e04ltpv5gush.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doanjava.messbcode",
+            "certificate_hash": "55382fd1b29057ec80f72b458e7f14b4c98f5963"
+          }
+        },
+        {
+          "client_id": "1034368524343-ar63bprgbl8hrclkb8kjer989hntlta8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNW13ocHvNklvO5v1q-1BUJ203PgVC24Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034368524343-ar63bprgbl8hrclkb8kjer989hntlta8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
